@@ -1,0 +1,10 @@
+
+.success{
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid rgb(4, 129, 0);
+    background-color: rgb(168, 255, 162);
+    color: rgb(51, 51, 51);
+    margin-bottom: 20px;
+}

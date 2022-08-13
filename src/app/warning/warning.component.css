@@ -1,0 +1,9 @@
+.warning{
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid rgb(157, 0, 0);
+    background-color: rgb(252, 117, 112);
+    color: rgb(51, 51, 51);
+    margin-bottom: 20px;
+}
